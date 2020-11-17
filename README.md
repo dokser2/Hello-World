@@ -1,4 +1,2 @@
 # Hello-World
-bbbbb
-jkjjjjjj
-m,mmmmmm
+# Hello my friend
